@@ -1,0 +1,8 @@
+{
+"button":{"id":"button","message":"This is a button"},
+"text":{"id":"text","message":"This is a text"},
+"select":{"id":"select","message":"This is a select"},
+"password":{"id":"password","message":"This is a password"},
+"email":{"id":"email","message":"This is a email"},
+"textarea":{"id":"textarea","message":"This is a textarea"}
+}
